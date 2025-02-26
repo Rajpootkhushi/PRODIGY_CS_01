@@ -24,15 +24,15 @@ a. **Choose whether to encrypt or decrypt a message.**
 b. **Input the message you want to process.**  
 c. **Provide a shift value (an integer between 1 and 25).**  
 
-4. The program will display the resulting encrypted or decrypted message.
+3. The program will display the resulting encrypted or decrypted message.
 
-5. Example  
+4. Example for Encryption.  
 a. **Do you want to (E)ncrypt or (D)ecrypt? E**  
 b. **Enter your message: Hello, World!**  
 c. **Enter shift value (1-25): 3**  
 d. **Encrypted Message: Khoor, Zruog!**
 
-OR  
+5. Example for Decryption.  
 a. **Do you want to (E)ncrypt or (D)ecrypt? D**    
 b. **Enter your message:Khoor, Zruog!**    
 c. **Enter shift value (1-25): 3**  
