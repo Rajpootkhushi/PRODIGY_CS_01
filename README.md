@@ -19,16 +19,15 @@ This is a simple Python program that implements the Caesar Cipher algorithm for 
    ```bash
    cd caesar-cipher
    python caesar_cipher.py
-   
-2. Follow the prompts to:
-1. Choose whether to encrypt or decrypt a message.
-2. Input the message you want to process.
-3. Provide a shift value (an integer between 1 and 25).
+2. Follow the prompts to:  
+a. **Choose whether to encrypt or decrypt a message.**  
+b. **Input the message you want to process.**  
+c. **Provide a shift value (an integer between 1 and 25).**  
 
-3. The program will display the resulting encrypted or decrypted message.
+4. The program will display the resulting encrypted or decrypted message.
 
-4. Example
-1. Do you want to (E)ncrypt or (D)ecrypt? E
-2. Enter your message: Hello, World!
-3. Enter shift value (1-25): 3
-4. Encrypted Message: Khoor, Zruog!
+5. Example  
+a. **Do you want to (E)ncrypt or (D)ecrypt? E**  
+b. **Enter your message: Hello, World!**  
+c. **Enter shift value (1-25): 3**  
+d. **Encrypted Message: Khoor, Zruog!**  
