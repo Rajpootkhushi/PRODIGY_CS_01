@@ -30,4 +30,11 @@ c. **Provide a shift value (an integer between 1 and 25).**
 a. **Do you want to (E)ncrypt or (D)ecrypt? E**  
 b. **Enter your message: Hello, World!**  
 c. **Enter shift value (1-25): 3**  
-d. **Encrypted Message: Khoor, Zruog!**  
+d. **Encrypted Message: Khoor, Zruog!**
+
+OR  
+a. **Do you want to (E)ncrypt or (D)ecrypt? D**    
+b. **Enter your message:Khoor, Zruog!**    
+c. **Enter shift value (1-25): 3**  
+d. **Encrypted Message: Hello, World!**  
+
